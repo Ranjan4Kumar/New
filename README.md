@@ -1,6 +1,5 @@
-#
-
-To become a data scientist, it is important to have a solid foundation in machine learning, as it is a key part of the field. Here are some essential machine learning topics that a data scientist should know:
+## To become a data scientist, it is important to have a solid foundation in machine learning, as it is a key part of the field. Here are some essential machine learning topics that a data scientist should know:
+![Alt Dream of Techies](https://thumbs.dreamstime.com/z/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)
 
 #### A. Supervised learning: This involves training a model to make predictions or classifications based on labeled data. Examples of algorithms used in supervised learning include decision trees, logistic regression, and support vector machines.
 ###### Supervised learning is a type of machine learning in which a model is trained on labeled data to make predictions or classifications. Here are some common topics that come under supervised machine learning:
